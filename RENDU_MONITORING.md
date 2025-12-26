@@ -284,7 +284,7 @@ Python 3.11+
 
 ```bash
 # Cloner le projet
-git clone <repository>
+git clone https://github.com/Malek-Boumedine/brief_monitoring
 cd monitoring-fastapi
 
 # Lancer la stack complète
